@@ -1,0 +1,19 @@
+{
+  "name": "hexo-lang-switcher-btn",
+  "version": "1.0.0",
+  "description": "add a button to switch language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fy1128/hexo-lang-switcher-btn.git"
+  },
+  "keywords": [
+    "hexo",
+    "language"
+  ],
+  "author": "fy1128",
+  "license": "MIT"
+}
