@@ -1,6 +1,6 @@
 ## Useage
 
-### added this to _config.yml
+### add this to _config.yml
 
 ``` yml
 langswitch:
@@ -8,7 +8,7 @@ langswitch:
   tw: 閱讀中文版
 ```
 
-### added to your post
+### tag plugin usage
 
 ```
 {% langswitch en [0,1] %}
@@ -19,4 +19,4 @@ langswitch:
 example:
 
 `{% langswitch en 0 %}` will generate a url: /<post-permalink>
-`{% langswitch en %}` will generate a url: /e/<post-permalink>
+`{% langswitch en %}` will generate a url: /en/<post-permalink>
